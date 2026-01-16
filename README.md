@@ -27,6 +27,32 @@ The app features secure authentication, cloud sync with **Supabase**, and a clea
 | Database | PostgreSQL |
 | Authentication | Supabase Auth |
 
+## 🛠️ AI Tools Used  
+
+- ChatGPT 5.2 — for code generation, debugging, and architecture planning  
+- Stitch — for UI/UX design and prototyping  
+- Cursor IDE — for faster AI-assisted coding  
+
+## 🤖 My AI Coding Workflow  
+
+I followed an AI-assisted development approach:
+
+1. Designed the complete UI in Stitch  
+2. Used Stitch components (cards, buttons, typography, layout system)  
+3. Exported design structure and translated it into Flutter widgets  
+4. Used ChatGPT 5.2 to:
+   - Generate Flutter UI code  
+   - Implement Supabase authentication  
+   - Create Riverpod state management  
+   - Debug runtime and build errors  
+5. Iteratively tested the app on an emulator and refined the UI  
+
+
+## 🎨 Design (Stitch)  
+
+Stitch Design Link:  
+https://stitch.withgoogle.com/projects/491242472699736291
+
 ---
 
 ## 🚀 Setup Instructions  
