@@ -56,8 +56,7 @@ https://stitch.withgoogle.com/projects/491242472699736291
 
 ## 🎥 Demo Video
 
-Loom Video:
-[https://your-loom-link-here](https://vimeo.com/1155124888?share=copy)
+Loom Video: https://vimeo.com/1155124888?share=copy
 
 
 
