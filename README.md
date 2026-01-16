@@ -1,45 +1,54 @@
-QuoteVault — AI Powered Quote App
+# 📱 QuoteVault — AI Powered Daily Quote App  
 
-QuoteVault is a modern Flutter-based mobile application that allows users to discover, save, and organize inspirational quotes. The app is built with a clean UI, secure authentication, and cloud-backed data storage using Supabase.
+QuoteVault is a modern Flutter-based mobile application that helps users discover, save, and organize inspirational quotes.  
+The app features secure authentication, cloud sync with **Supabase**, and a clean, minimal UI built with Flutter.
 
-Features:
-User Authentication — Login & Signup using Supabase.
-Favorites — Save your favorite quotes.
-Collections — Organize quotes into custom collections.
-Search & Filter — Find quotes by category or author.
-Cloud Sync — All data stored securely in Supabase.
-Fast Performance — Built with Flutter & Riverpod.
-Secure Database — Uses Row Level Security (RLS).
+---
 
-Tech Stack:
-Frontend: Flutter (Dart).
-State Management: Riverpod.
-Backend: Supabase.
-Database: PostgreSQL (via Supabase).
-Authentication: Supabase Auth.
+## ✨ Features  
 
-Screens:
-Home — Browse trending quotes.
-Search — Search by category or author.
-Favorites — View saved quotes.
-Profile — Manage user account.
+- 🔐 **User Authentication** — Login & Signup using Supabase  
+- ❤️ **Favorites** — Save your favorite quotes  
+- 📂 **Collections** — Organize quotes into custom collections  
+- 🔍 **Search & Filter** — Find quotes by category or author  
+- ☁️ **Cloud Sync** — All data stored securely in Supabase  
+- ⚡ **Fast Performance** — Built with Flutter & Riverpod  
+- 🔒 **Secure Database** — Uses Row Level Security (RLS)
 
-Project Structure:
-lib/app
-lib/features/auth
-lib/features/quotes
-lib/features/favorites
-lib/shared/models
-lib/supabase
+---
 
-Setup Instructions:
-Step 1: Clone the repository.
-Step 2: Run flutter pub get.
-Step 3: Create file lib/supabase/supabase_keys.dart and add your Supabase URL and anon key.
-Step 4: Run the app using flutter run.
+## 🛠️ Tech Stack  
 
-Learning Outcomes:
-Learned Flutter app architecture, Supabase authentication, Row Level Security (RLS), Riverpod state management, and clean coding practices.
+| Layer | Technology |
+|------|------------|
+| Frontend | Flutter (Dart) |
+| State Management | Riverpod |
+| Backend | Supabase |
+| Database | PostgreSQL |
+| Authentication | Supabase Auth |
 
-Developed by:
-Ayush Deshmukh
+---
+
+## 🚀 Setup Instructions  
+
+### 1️⃣ Clone the repository  
+```bash
+git clone https://github.com/ayushD-Max/quotevault-app.git
+cd quotevault-app
+2️⃣ Install dependencies
+flutter pub get
+
+3️⃣ Configure Supabase
+
+Add your keys in:
+
+lib/supabase/supabase_keys.dart
+
+
+Example:
+
+const supabaseUrl = "YOUR_SUPABASE_URL";
+const supabaseAnonKey = "YOUR_ANON_KEY";
+
+4️⃣ Run the app
+flutter run
