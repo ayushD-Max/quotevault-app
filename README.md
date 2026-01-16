@@ -77,7 +77,7 @@ Loom Video: https://vimeo.com/1155124888?share=copy
 ## supabase schema 
 
 <p align="center">
-  <img src="screenshots/supabase-schema.png" width="200" />
+  <img src="screenshots/supabase-schema.png" width="800" />
 </p>
 
 ---
