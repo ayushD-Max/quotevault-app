@@ -48,10 +48,18 @@ I followed an AI-assisted development approach:
 5. Iteratively tested the app on an emulator and refined the UI  
 
 
+
 ## 🎨 Design (Stitch)  
 
 Stitch Design Link:  
 https://stitch.withgoogle.com/projects/491242472699736291
+
+## 🎥 Demo Video
+
+Loom Video:
+[https://your-loom-link-here](https://vimeo.com/1155124888?share=copy)
+
+
 
 ---
 
