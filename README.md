@@ -74,7 +74,11 @@ Loom Video: https://vimeo.com/1155124888?share=copy
    <img src="screenshots/10.png" width="200"/>
 </div>
 
+## supabase schema 
 
+<p align="center">
+  <img src="screenshots/supabase-schema.png" width="200" />
+</p>
 
 ---
 
@@ -88,12 +92,6 @@ cd quotevault-app
 flutter pub get
 
 3️⃣ Configure Supabase
-## supabase schema 
-
-<p align="center">
-  <img src="screenshots/supabase-schema.png" width="200" />
-</p>
-
 
 Add your keys in:
 
