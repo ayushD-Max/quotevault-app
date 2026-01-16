@@ -88,6 +88,12 @@ cd quotevault-app
 flutter pub get
 
 3️⃣ Configure Supabase
+## supabase schema 
+
+<p align="center">
+  <img src="screenshots/supabase-schema.png" width="200" />
+</p>
+
 
 Add your keys in:
 
